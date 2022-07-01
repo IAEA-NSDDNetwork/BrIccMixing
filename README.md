@@ -9,6 +9,8 @@ the **packages** directory contains the installation packages for Linux, Mac, an
 ## Change history
 
 #### 2019-05
+* Version 2.3d
+
 2019-5 BrIccMixing 64 bit executables, updated manual.
 
 ## Disclaimer
